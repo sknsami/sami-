@@ -1,4 +1,4 @@
 Hii this the git tituroial
 my name sk md sameer 
-i am yet studying 
+this is the first commit on the git hub
 this is the basicc of the git
